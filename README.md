@@ -1,0 +1,2 @@
+# aws-pratices
+pratices aws
